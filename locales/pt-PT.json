@@ -294,7 +294,7 @@
       "add_to_apple_wallet": "Adicionar ao Apple Wallet"
     }
   },
-  "date_formats": {
+  "date_formats":{
     "month_day_year": "%d de %B de %Y"
   }
 }
