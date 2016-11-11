@@ -8,3 +8,5 @@ development:
   :ignore_files:
     - "*.smp"
     - "config/settings_data.json"
+    - license.txt
+    - humans.txt
