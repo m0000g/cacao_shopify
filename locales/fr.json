@@ -292,9 +292,10 @@
       "shop_link": "Boutique",
       "print": "Imprimer",
       "add_to_apple_wallet": "Ajouter à Apple Wallet"
+
     }
   },
-  "date_formats": {
+  "date_formats":{
     "month_day_year": "%d %B, %Y"
   }
 }
