@@ -1,0 +1,10 @@
+development:
+  password: ca60fc21064648e58c24c89fc81cc6d1
+  theme_id: "153024902"
+  store: m0000g-dev-shop.myshopify.com
+  timeout: 30s
+  bucket_size: 40
+  refill_rate: 2
+  :ignore_files:
+    - "*.smp"
+    - "config/settings_data.json"
